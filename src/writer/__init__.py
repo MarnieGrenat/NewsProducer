@@ -1,0 +1,1 @@
+from .press_writer import Writer
